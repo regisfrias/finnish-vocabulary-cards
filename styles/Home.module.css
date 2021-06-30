@@ -9,7 +9,6 @@
 }
 
 .main {
-  padding: 5rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -60,6 +59,7 @@
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
+  margin: 0 !important;
 }
 
 .code {
@@ -73,11 +73,13 @@
 
 .big_button {
   font-size: 6rem;
+  line-height: 1;
   appearance: none;
   border: 0;
   background-color: transparent;
   text-align: center;
   cursor: pointer;
+  padding: 0;
 }
 
 .grid {
