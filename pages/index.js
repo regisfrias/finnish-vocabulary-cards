@@ -32,9 +32,11 @@ export default function Home() {
         <div className={styles.grid}>
           <div className={styles.card + ' ' + (flipClass ? styles.flip : '')} onClick={() => setFlipClass(!flipClass)}>
             <div className={styles.front}>
+              <p>🇫🇮</p>
               <p>{ word.fi }</p>
             </div>
             <div className={styles.back}>
+              <p>🇧🇷</p>
               <p>{ word.pt }</p>
             </div>
           </div>
