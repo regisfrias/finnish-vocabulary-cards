@@ -11,9 +11,10 @@ export default function Home() {
     const randomWordIndex = filterWord[0]
     return data[randomWordIndex]
   }
-  const [word, setWord] = useState(randomWord());
-
+  const [word, setWord] = useState(randomWord())
   const loadNewWord = () => setWord(randomWord())
+
+  const [flipClass, setFlipClass] = useState(false)
 
   return (
     <div className={styles.container}>
@@ -29,7 +30,7 @@ export default function Home() {
         </div>
 
         <div className={styles.grid}>
-          <div className={styles.card}>
+          <div className={styles.card + ' ' + (flipClass ? styles.flip : '')} onClick={() => setFlipClass(!flipClass)}>
             <div className={styles.front}>
               <p>{ word.fi }</p>
             </div>

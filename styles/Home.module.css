@@ -103,7 +103,7 @@
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
   width: 60%;
-  
+  cursor: pointer;
   position: relative;
   transition: transform 0.8s;
   transform-style: preserve-3d;
@@ -112,9 +112,8 @@
 	-moz-box-shadow: 5px 5px 27px rgba(0, 0, 0, 0.2)  ; 
 }
 
-.card:hover,
-.card:focus,
-.card:active {
+
+.card.flip {
   transform: rotateY(180deg);
 }
 
@@ -126,8 +125,6 @@
   left: 0;
   -webkit-backface-visibility: hidden; /* Safari */
   backface-visibility: hidden;
-}
-.card .front {
 }
 .card .back {
   position: absolute;
