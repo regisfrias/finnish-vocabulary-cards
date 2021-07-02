@@ -40,5 +40,26 @@
     },
     "fi": "Luokka",
     "pt": "Categoria, classe, gênero, tipo..."
+  },
+  "6": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Julkistaa",
+    "pt": "Publicar, lançar, anunciar, divulgar..."
+  },
+  "7": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Tuotanto",
+    "pt": "Produção, geração"
+  },
+  "8": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Vaatia",
+    "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
   }
 }
