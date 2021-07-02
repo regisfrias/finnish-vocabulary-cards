@@ -131,7 +131,9 @@
   position: absolute;
   transform: rotateY(180deg);
 }
-
+.card .back p {
+  font-size: 1.5rem;
+}
 .card h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
