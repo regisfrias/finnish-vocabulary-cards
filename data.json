@@ -1,25 +1,43 @@
 {
   "0": {
+    "class": {
+      "name": "verb"
+    },
     "fi": "Lytätä",
     "pt": "Achatar"
   },
   "1": {
+    "class": {
+      "name": "adverb"
+    },
     "fi": "Ennenaikainen",
     "pt": "Preliminar, prematuro"
   },
   "2": {
+    "class": {
+      "name": "verb"
+    },
     "fi": "Paljastaa",
     "pt": "Revelar, expor"
   },
   "3": {
+    "class": {
+      "name": "verb"
+    },
     "fi": "Paljastua",
     "pt": "Ser revelado, ser exposto, emergir"
   },
   "4": {
+    "class": {
+      "name": "verb"
+    },
     "fi": "Juontua",
     "pt": "Derivar"
   },
   "5": {
+    "class": {
+      "name": "noun"
+    },
     "fi": "Luokka",
     "pt": "Categoria, classe, gênero, tipo..."
   }
