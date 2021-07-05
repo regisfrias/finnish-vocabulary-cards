@@ -61,5 +61,26 @@
     },
     "fi": "Vaatia",
     "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
+  },
+  "9": {
+    "class": {
+      "name": "adverb"
+    },
+    "fi": "Vakava",
+    "pt": "Sério, grave, severo."
+  },
+  "10": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Huolestuttaa",
+    "pt": "Preocupar, alarmar, inquietar."
+  },
+  "11": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Tuottaa",
+    "pt": "Causar, criar, produzir."
   }
 }
