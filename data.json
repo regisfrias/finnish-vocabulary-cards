@@ -82,5 +82,19 @@
     },
     "fi": "Tuottaa",
     "pt": "Causar, criar, produzir."
+  },
+  "12": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Saapua",
+    "pt": "Chegar, alcançar, atingir, vencer."
+  },
+  "13": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Saapua",
+    "pt": "Diploma, certificado, prova, testemunho."
   }
 }
