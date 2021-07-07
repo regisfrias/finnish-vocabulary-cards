@@ -124,5 +124,12 @@
     },
     "fi": "Teollisuus",
     "pt": "Indústria."
+  } ,
+  "18": {
+    "class": {
+      "name": "adverb"
+    },
+    "fi": "Ehdottomasti",
+    "pt": "Absolutamente, definitivamente."
   }
 }
