@@ -103,5 +103,26 @@
     },
     "fi": "Sijoittaa",
     "pt": "Plantar, posicionar, apostar, investir."
+  },
+  "15": {
+    "class": {
+      "name": ""
+    },
+    "fi": "Edes",
+    "pt": "Mesmo, até, apenas, somente."
+  },
+  "16": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Kiihtyä",
+    "pt": "Acelerar, ficar excitado, escalonar."
+  },
+  "17": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Teollisuus",
+    "pt": "Indústria."
   }
 }
