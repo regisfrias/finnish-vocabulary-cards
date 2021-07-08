@@ -131,5 +131,26 @@
     },
     "fi": "Ehdottomasti",
     "pt": "Absolutamente, definitivamente."
+  } ,
+  "19": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Alusta",
+    "pt": "Plataforma, base, chassi."
+  } ,
+  "20": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Jättää",
+    "pt": "Descarregar, despensar, sair, abandonar."
+  } ,
+  "21": {
+    "class": {
+      "name": "adverb"
+    },
+    "fi": "Tavattoman",
+    "pt": "Extremamente, excessivamente."
   }
 }
