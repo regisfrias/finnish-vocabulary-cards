@@ -2,19 +2,11 @@ import React, { useState } from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import data from '../data.json'
+import { shuffle } from '../js/utils'
+import Card from '../components/Card'
 
 export default function Home() {
-  const randomWord = () => {
-    const listLength = Object.keys(data).length
-    const randomIndex = Math.floor(Math.random() * listLength)
-    const filterWord = Object.keys(data).filter( (d, i) => i === randomIndex)
-    const randomWordIndex = filterWord[0]
-    return data[randomWordIndex]
-  }
-  const [word, setWord] = useState(randomWord())
-  const loadNewWord = () => setWord(randomWord())
-
-  const [flipClass, setFlipClass] = useState(false)
+  const shuffled = shuffle(data)
 
   return (
     <div className={styles.container}>
@@ -29,22 +21,7 @@ export default function Home() {
           <h1 className={styles.title}>Finnish learning cards</h1>
         </div>
 
-        <div className={styles.grid}>
-          <div className={styles.card + ' ' + (flipClass ? styles.flip : '')} onClick={() => setFlipClass(!flipClass)}>
-            <div className={styles.front}>
-              <p>🇫🇮</p>
-              <p>{ word.fi }</p>
-            </div>
-            <div className={styles.back}>
-              <p>🇧🇷</p>
-              <p>{ word.pt }</p>
-            </div>
-          </div>
-        </div>
-
-        <p className={styles.description}>
-          <button className={styles.big_button} onClick={() => loadNewWord()}>↺</button>
-        </p>
+        <Card words={shuffled} />
       </main>
 
       <footer className={styles.footer}>
