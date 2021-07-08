@@ -7,6 +7,7 @@ import Card from '../components/Card'
 
 export default function Home() {
   const shuffled = shuffle(data)
+  const [words, setData] = useState(shuffled)
 
   return (
     <div className={styles.container}>
@@ -21,7 +22,7 @@ export default function Home() {
           <h1 className={styles.title}>Finnish learning cards</h1>
         </div>
 
-        <Card words={shuffled} />
+        <Card words={shuffled} onFinnish={() => setData(shuffle(words))} />
       </main>
 
       <footer className={styles.footer}>

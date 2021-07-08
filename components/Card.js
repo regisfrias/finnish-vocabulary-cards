@@ -1,16 +1,18 @@
 import React, { useState } from 'react'
 import styles from '../styles/Home.module.css'
 
-export default function Card({words}) {
+export default function Card({words, onFinnish}) {
   const [index, setIndex] = useState(0)
   const word = words[index]
+  const [flipClass, setFlipClass] = useState(false)
 
   const nextIndex = (index) => {
+    if (index === (Object.keys(words).length - 1)) {
+      onFinnish()
+    }
     const newIndex = index < (Object.keys(words).length - 1) ? index + 1 : 0
     setIndex(newIndex)
   }
-
-  const [flipClass, setFlipClass] = useState(false)
 
   return (
     <>
