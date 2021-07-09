@@ -152,5 +152,26 @@
     },
     "fi": "Tavattoman",
     "pt": "Extremamente, excessivamente."
+  } ,
+  "22": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Hajottaa",
+    "pt": "Quebrar, partir, desmontar, demolir, espalhar."
+  } ,
+  "23": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Kerätä",
+    "pt": "Coletar, aglutinar, acumular, arrecadar, colecionar."
+  } ,
+  "24": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Ennustaa",
+    "pt": "Prever, adivinhar, predizer."
   }
 }
