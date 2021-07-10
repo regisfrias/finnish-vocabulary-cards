@@ -173,5 +173,26 @@
     },
     "fi": "Ennustaa",
     "pt": "Prever, adivinhar, predizer."
+  } ,
+  "25": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Torjunta",
+    "pt": "Prevenção, bloqueio."
+  } ,
+  "26": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Asenne",
+    "pt": "Posição, postura, atitude."
+  } ,
+  "27": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Vaikuttaa",
+    "pt": "Impactar, afetar, influenciar."
   }
 }
