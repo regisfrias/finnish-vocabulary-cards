@@ -124,75 +124,96 @@
     },
     "fi": "Teollisuus",
     "pt": "Indústria."
-  } ,
+  },
   "18": {
     "class": {
       "name": "adverb"
     },
     "fi": "Ehdottomasti",
     "pt": "Absolutamente, definitivamente."
-  } ,
+  },
   "19": {
     "class": {
       "name": "noun"
     },
     "fi": "Alusta",
     "pt": "Plataforma, base, chassi."
-  } ,
+  },
   "20": {
     "class": {
       "name": "verb"
     },
     "fi": "Jättää",
     "pt": "Descarregar, despensar, sair, abandonar."
-  } ,
+  },
   "21": {
     "class": {
       "name": "adverb"
     },
     "fi": "Tavattoman",
     "pt": "Extremamente, excessivamente."
-  } ,
+  },
   "22": {
     "class": {
       "name": "verb"
     },
     "fi": "Hajottaa",
     "pt": "Quebrar, partir, desmontar, demolir, espalhar."
-  } ,
+  },
   "23": {
     "class": {
       "name": "verb"
     },
     "fi": "Kerätä",
     "pt": "Coletar, aglutinar, acumular, arrecadar, colecionar."
-  } ,
+  },
   "24": {
     "class": {
       "name": "verb"
     },
     "fi": "Ennustaa",
     "pt": "Prever, adivinhar, predizer."
-  } ,
+  },
   "25": {
     "class": {
       "name": "noun"
     },
     "fi": "Torjunta",
     "pt": "Prevenção, bloqueio."
-  } ,
+  },
   "26": {
     "class": {
       "name": "noun"
     },
     "fi": "Asenne",
     "pt": "Posição, postura, atitude."
-  } ,
+  },
   "27": {
     "class": {
       "name": "verb"
     },
     "fi": "Vaikuttaa",
     "pt": "Impactar, afetar, influenciar."
+  },
+  "28": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Päästö",
+    "pt": "Emissão."
+  },
+  "29": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Tavoite",
+    "pt": "Meta, objetivo, prioridade."
+  },
+  "30": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Estää",
+    "pt": "Bloquear, barrar, proibir, evitar, frustrar."
   }
 }
