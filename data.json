@@ -216,11 +216,18 @@
     "fi": "Estää",
     "pt": "Bloquear, barrar, proibir, evitar, frustrar."
   },
-  "32": {
+  "31": {
     "class": {
       "name": "verb"
     },
     "fi": "Hyötyä",
     "pt": "Beneficiar, lucrar."
+  },
+  "32": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Menettä",
+    "pt": "Perder."
   }
 }
