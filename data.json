@@ -229,5 +229,12 @@
     },
     "fi": "Menettä",
     "pt": "Perder."
+  } ,
+  "33": {
+    "class": {
+      "name": ""
+    },
+    "fi": "Kohti",
+    "pt": "Rumo a, até, para."
   }
 }
