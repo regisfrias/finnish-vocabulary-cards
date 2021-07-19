@@ -7,10 +7,10 @@ export default function Card({words, onFinnish}) {
   const [flipClass, setFlipClass] = useState(false)
 
   const nextIndex = (index) => {
-    if (index === (Object.keys(words).length - 1)) {
+    if (index === (words.length - 1)) {
       onFinnish()
     }
-    const newIndex = index < (Object.keys(words).length - 1) ? index + 1 : 0
+    const newIndex = index < (words.length - 1) ? index + 1 : 0
     setIndex(newIndex)
   }
 

@@ -2,12 +2,11 @@ import React, { useState } from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import data from '../data.json'
-import { shuffle } from '../js/utils'
+import { shuffle, filter } from '../js/utils'
 import Card from '../components/Card'
 
 export default function Home() {
-  const shuffled = shuffle(data)
-  const [words, setData] = useState(shuffled)
+  const [words, setData] = useState(shuffle(filter(data)))
 
   return (
     <div className={styles.container}>
@@ -22,7 +21,7 @@ export default function Home() {
           <h1 className={styles.title}>Finnish learning cards</h1>
         </div>
 
-        <Card words={shuffled} onFinnish={() => setData(shuffle(words))} />
+        <Card words={words} onFinnish={() => setData(shuffle(filter(data)))} />
       </main>
 
       <footer className={styles.footer}>

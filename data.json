@@ -3,6 +3,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Lytätä",
     "pt": "Achatar"
   },
@@ -10,6 +11,7 @@
     "class": {
       "name": "adverb"
     },
+    "weight": 0.25,
     "fi": "Ennenaikainen",
     "pt": "Preliminar, prematuro"
   },
@@ -17,6 +19,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Paljastaa",
     "pt": "Revelar, expor"
   },
@@ -24,6 +27,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Paljastua",
     "pt": "Ser revelado, ser exposto, emergir"
   },
@@ -31,6 +35,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Juontua",
     "pt": "Derivar"
   },
@@ -38,6 +43,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.25,
     "fi": "Luokka",
     "pt": "Categoria, classe, gênero, tipo..."
   },
@@ -45,6 +51,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Julkistaa",
     "pt": "Publicar, lançar, anunciar, divulgar..."
   },
@@ -52,6 +59,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.25,
     "fi": "Tuotanto",
     "pt": "Produção, geração"
   },
@@ -59,6 +67,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Vaatia",
     "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
   },
@@ -66,6 +75,7 @@
     "class": {
       "name": "adverb"
     },
+    "weight": 0.25,
     "fi": "Vakava",
     "pt": "Sério, grave, severo."
   },
@@ -73,6 +83,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.5,
     "fi": "Huolestuttaa",
     "pt": "Preocupar, alarmar, inquietar."
   },
@@ -80,6 +91,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Tuottaa",
     "pt": "Causar, criar, produzir."
   },
@@ -87,6 +99,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Saapua",
     "pt": "Chegar, alcançar, atingir, vencer."
   },
@@ -94,6 +107,7 @@
     "class": {
       "name": "adverb"
     },
+    "weight": 0.25,
     "fi": "Toimelias",
     "pt": "Ativo, energético."
   },
@@ -101,6 +115,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Sijoittaa",
     "pt": "Plantar, posicionar, apostar, investir."
   },
@@ -108,6 +123,7 @@
     "class": {
       "name": ""
     },
+    "weight": 0.5,
     "fi": "Edes",
     "pt": "Mesmo, até, apenas, somente."
   },
@@ -115,6 +131,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.5,
     "fi": "Kiihtyä",
     "pt": "Acelerar, ficar excitado, escalonar."
   },
@@ -122,6 +139,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.25,
     "fi": "Teollisuus",
     "pt": "Indústria."
   },
@@ -129,6 +147,7 @@
     "class": {
       "name": "adverb"
     },
+    "weight": 1,
     "fi": "Ehdottomasti",
     "pt": "Absolutamente, definitivamente."
   },
@@ -136,6 +155,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.25,
     "fi": "Alusta",
     "pt": "Plataforma, base, chassi."
   },
@@ -143,6 +163,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.5,
     "fi": "Jättää",
     "pt": "Descarregar, despensar, sair, abandonar."
   },
@@ -150,6 +171,7 @@
     "class": {
       "name": "adverb"
     },
+    "weight": 0.5,
     "fi": "Tavattoman",
     "pt": "Extremamente, excessivamente."
   },
@@ -157,6 +179,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Hajottaa",
     "pt": "Quebrar, partir, desmontar, demolir, espalhar."
   },
@@ -164,6 +187,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Kerätä",
     "pt": "Coletar, aglutinar, acumular, arrecadar, colecionar."
   },
@@ -171,6 +195,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Ennustaa",
     "pt": "Prever, adivinhar, predizer."
   },
@@ -178,6 +203,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 1,
     "fi": "Torjunta",
     "pt": "Prevenção, bloqueio."
   },
@@ -185,6 +211,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.25,
     "fi": "Asenne",
     "pt": "Posição, postura, atitude."
   },
@@ -192,6 +219,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.5,
     "fi": "Vaikuttaa",
     "pt": "Impactar, afetar, influenciar."
   },
@@ -199,6 +227,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 0.5,
     "fi": "Päästö",
     "pt": "Emissão."
   },
@@ -206,6 +235,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 0.25,
     "fi": "Tavoite",
     "pt": "Meta, objetivo, prioridade."
   },
@@ -213,6 +243,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Estää",
     "pt": "Bloquear, barrar, proibir, evitar, frustrar."
   },
@@ -220,6 +251,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Hyötyä",
     "pt": "Beneficiar, lucrar."
   },
@@ -227,6 +259,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Menettä",
     "pt": "Perder."
   },
@@ -234,6 +267,7 @@
     "class": {
       "name": ""
     },
+    "weight": 1,
     "fi": "Kohti",
     "pt": "Rumo a, até, para."
   },
@@ -241,6 +275,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Havaita",
     "pt": "Compreender, perceber, detectar."
   },
@@ -248,6 +283,7 @@
     "class": {
       "name": "noun"
     },
+    "weight": 1,
     "fi": "Ilmiö",
     "pt": "Fenômeno, efeito, aparência."
   },
@@ -255,6 +291,7 @@
     "class": {
       "name": "verb"
     },
+    "weight": 1,
     "fi": "Purkaa",
     "pt": "Destruir, desfazer, desmontar, decifrar."
   }
