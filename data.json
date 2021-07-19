@@ -229,12 +229,33 @@
     },
     "fi": "Menettä",
     "pt": "Perder."
-  } ,
+  },
   "33": {
     "class": {
       "name": ""
     },
     "fi": "Kohti",
     "pt": "Rumo a, até, para."
+  },
+  "34": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Havaita",
+    "pt": "Compreender, perceber, detectar."
+  },
+  "35": {
+    "class": {
+      "name": "noun"
+    },
+    "fi": "Ilmiö",
+    "pt": "Fenômeno, efeito, aparência."
+  },
+  "36": {
+    "class": {
+      "name": "verb"
+    },
+    "fi": "Purkaa",
+    "pt": "Destruir, desfazer, desmontar, decifrar."
   }
 }
