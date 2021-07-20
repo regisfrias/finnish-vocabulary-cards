@@ -294,5 +294,29 @@
     "weight": 1,
     "fi": "Purkaa",
     "pt": "Destruir, desfazer, desmontar, decifrar."
+  },
+  "37": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Kehottaa",
+    "pt": "Insistir, encorajar."
+  },
+  "38": {
+    "class": {
+      "name": "adjective"
+    },
+    "weight": 1,
+    "fi": "Ärhäkkä",
+    "pt": "Agressivo, irascível."
+  },
+  "39": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Kohdistaa",
+    "pt": "Direcionar, orientar, focar."
   }
 }
