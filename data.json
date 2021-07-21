@@ -318,5 +318,21 @@
     "weight": 1,
     "fi": "Kohdistaa",
     "pt": "Direcionar, orientar, focar."
+  },
+  "40": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Tajuta",
+    "pt": "Dar-se conta, compreender."
+  },
+  "41": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Paisunut",
+    "pt": "Inflado, inchado."
   }
 }
