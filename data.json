@@ -334,5 +334,53 @@
     "weight": 1,
     "fi": "Paisunut",
     "pt": "Inflado, inchado."
+  },
+  "42": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Ennätys",
+    "pt": "Recorde."
+  },
+  "43": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Kohentaa",
+    "pt": "Melhorar, consertar, aperfeiçoar."
+  },
+  "44": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Ryhtyä",
+    "pt": "Empreender, conduzir, travar."
+  },
+  "45": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Selvittää",
+    "pt": "Deduzir, resolver, descobrir, esclarecer, decifrar..."
+  },
+  "46": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Jakelu",
+    "pt": "Distribuição."
+  },
+  "47": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Liittyvä",
+    "pt": "Contíguo, relacionado."
   }
 }
