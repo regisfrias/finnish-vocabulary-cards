@@ -382,5 +382,13 @@
     "weight": 1,
     "fi": "Liittyvä",
     "pt": "Contíguo, relacionado."
+  },
+  "48": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Kiristää",
+    "pt": "Apertar, chantagear."
   }
 }
