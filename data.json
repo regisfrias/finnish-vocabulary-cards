@@ -406,5 +406,29 @@
     "weight": 1,
     "fi": "Luoda",
     "pt": "Criar, fazer, compor, mudar, engendrar"
+  },
+  "51": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Äskettäin",
+    "pt": "Recentemente, ultimamente, recém",
+  },
+  "52": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Sekä",
+    "pt": "Assim como"
+  },
+  "53": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Eräs",
+    "pt": "Algum, certo"
   }
 }
