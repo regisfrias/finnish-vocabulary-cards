@@ -430,5 +430,13 @@
     "weight": 1,
     "fi": "Eräs",
     "pt": "Algum, certo"
+  },
+  "54": {
+    "class": {
+      "name": "verb"
+    },
+    "weight": 1,
+    "fi": "Pärjätä",
+    "pt": "Aguentar, conformar-se."
   }
 }
