@@ -13,7 +13,7 @@ export const shuffle = (array) => {
 }
 
 export const filter = (data) => {
-  return Object.keys(data).reduce((acc, current, id) => {
+  return Object.keys(data).reduce((acc, id) => {
     const item = data[id]
     const weight = data[id].weight
     const rand = Math.random()
