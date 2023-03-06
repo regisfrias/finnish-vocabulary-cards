@@ -30,7 +30,7 @@ export default function Card({words, onFinnish}) {
       </div>
 
       <p className={styles.description}>
-        <button className={styles.big_button} onClick={() => nextIndex(index)}>↺</button>
+        <button className={styles.big_button} onClick={() => nextIndex(index)}>→</button>
       </p>
     </>
   )
