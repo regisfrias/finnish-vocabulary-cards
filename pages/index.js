@@ -13,14 +13,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Finnish learning cards</title>
+        <title>Finnish vocabulary cards</title>
         <meta name="description" content="Finnish learning cards" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <div>
-          <h1 className={styles.title}>Finnish learning cards</h1>
+          <h1 className={styles.title}>Finnish vocabulary cards</h1>
         </div>
 
         {words && <Card words={words} onFinnish={() => setData(shuffle(filter(data)))} />}
