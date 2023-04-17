@@ -470,5 +470,13 @@
     "weight": 0.25,
     "fi": "Mittapuu",
     "pt": "Norma, padrão"
+  },
+  "59": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Järki",
+    "pt": "Razão, intelecto, propósito"
   }
 }
