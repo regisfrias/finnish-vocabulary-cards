@@ -3,7 +3,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 0.25,
+    "weight": 0.75,
     "fi": "Lytätä",
     "pt": "Achatar"
   },
@@ -35,7 +35,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 0.25,
+    "weight": 0.75,
     "fi": "Juontua",
     "pt": "Derivar"
   },
@@ -67,7 +67,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 0.25,
+    "weight": 0.75,
     "fi": "Vaatia",
     "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
   },
@@ -123,7 +123,7 @@
     "class": {
       "name": ""
     },
-    "weight": 0.5,
+    "weight": 0.25,
     "fi": "Edes",
     "pt": "Mesmo, até, apenas, somente"
   },
@@ -283,7 +283,7 @@
     "class": {
       "name": "noun"
     },
-    "weight": 1,
+    "weight": 0.25,
     "fi": "Ilmiö",
     "pt": "Fenômeno, efeito, aparência"
   },
@@ -363,7 +363,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 1,
+    "weight": 0.25,
     "fi": "Selvittää",
     "pt": "Deduzir, resolver, descobrir, esclarecer, decifrar..."
   },
@@ -387,7 +387,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 1,
+    "weight": 0.5,
     "fi": "Kiristää",
     "pt": "Apertar, chantagear"
   },
@@ -419,7 +419,7 @@
     "class": {
       "name": "verb"
     },
-    "weight": 1,
+    "weight": 0.25,
     "fi": "Sekä",
     "pt": "Assim como"
   },
