@@ -502,5 +502,13 @@
     "weight": 1,
     "fi": "Tietynlainen",
     "pt": "De certo tipo"
+  },
+  "63": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Haaste",
+    "pt": "Desafio, intimação, citação"
   }
 }
