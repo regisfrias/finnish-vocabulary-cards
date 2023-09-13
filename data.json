@@ -510,5 +510,29 @@
     "weight": 1,
     "fi": "Haaste",
     "pt": "Desafio, intimação, citação"
+  },
+  "64": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Haastattelu",
+    "pt": "Entrevista"
+  },
+  "65": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Peruste",
+    "pt": "Fundamento, justificativa, razão"
+  },
+  "66": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Hankala",
+    "pt": "Tedioso, difícil, constrangedor"
   }
 }
