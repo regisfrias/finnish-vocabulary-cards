@@ -582,5 +582,21 @@
     "weight": 1,
     "fi": "Varmistua",
     "pt": "Certificar"
+  },
+  "72": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Alustava",
+    "pt": "Rudimentar, preliminar, introdutório"
+  },
+  "73": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Havainto",
+    "pt": "Percepção, observação"
   }
 }
