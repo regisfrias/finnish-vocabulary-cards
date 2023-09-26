@@ -598,5 +598,37 @@
     "weight": 1,
     "fi": "Havainto",
     "pt": "Percepção, observação"
+  },
+  "74": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Eläily",
+    "pt": "Incerteza, suspeita, dúvida"
+  },
+  "74": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Asiantuntija",
+    "pt": "Especialista, perito, autoridade"
+  },
+  "75": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Into",
+    "pt": "Entusiasmo, ânimo, gana, zelo"
+  },
+  "76": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Piirre",
+    "pt": "Traço, atributo, peculiaridade"
   }
 }
