@@ -646,5 +646,21 @@
     "weight": 1,
     "fi": "Vastaavanlainen",
     "pt": "Análogo, complementar"
+  },
+  "79": {
+    "class": {
+      "name": ""
+    },
+    "weight": 1,
+    "fi": "Jopa",
+    "pt": "Mesmo, até, nem sequer"
+  },
+  "80": {
+    "class": {
+      "name": ""
+    },
+    "weight": 1,
+    "fi": "Joten",
+    "pt": "Então, portanto, logo"
   }
 }
