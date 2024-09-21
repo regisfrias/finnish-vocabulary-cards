@@ -710,5 +710,157 @@
     "weight": 1,
     "fi": "Joutua",
     "pt": "Acabar (end up)"
+  },
+  "84": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Pääkoppa",
+    "pt": "Crânio"
+  },
+  "85": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 1,
+    "fi": "Uutta putkeen",
+    "pt": "Nova tentativa"
+  },
+  "86": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Uppo-outo",
+    "pt": "Desorientado, completamente desconhecido"
+  },
+  "87": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Kaukokaipuu",
+    "pt": "Saudade de um lugar em que nunca se esteve"
+  },
+  "88": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 0.5,
+    "fi": "Matkakuume",
+    "pt": "Febre de viagem"
+  },
+  "89": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 0.5,
+    "fi": "Selvä pyy",
+    "pt": "Ok"
+  },
+  "90": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 0.75,
+    "fi": "Ei yksi pääsky kesää tee",
+    "pt": "Uma andorinha não faz verão"
+  },
+  "91": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 0.75,
+    "fi": "Ottaa neuvosta vaarin",
+    "pt": "Ouvir um conselho"
+  },
+  "92": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 0.75,
+    "fi": "Tehosekoitin",
+    "pt": "Liquidificador"
+  },
+  "92": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Hilavitkutin",
+    "pt": "Gadget"
+  },
+  "93": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Hilavitkutin",
+    "pt": "Gadget"
+  },
+  "94": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Kirjoitusasu",
+    "pt": "Grafia"
+  },
+  "95": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Nokonuuka",
+    "pt": "Descuidado, indiferente"
+  },
+  "96": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 1,
+    "fi": "Ei olla kaikki muumit laaksossa",
+    "pt": "Sem noção"
+  },
+  "97": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 1,
+    "fi": "Ei tule kesää",
+    "pt": "Não concordo"
+  },
+  "98": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Rikkaruoho",
+    "pt": "Erva daninha"
+  },
+  "99": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Ilkivalta",
+    "pt": "Vandalismo"
+  },
+  "100": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Ilmavaiva",
+    "pt": "Flatulência"
+  },
+  "101": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Ilotalo",
+    "pt": "Bordel"
   }
 }
