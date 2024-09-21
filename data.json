@@ -862,5 +862,85 @@
     "weight": 1,
     "fi": "Ilotalo",
     "pt": "Bordel"
+  },
+  "102": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 0.5,
+    "fi": "Takaraivo",
+    "pt": "Mais que nervoso"
+  },
+  "103": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Vajanainen",
+    "pt": "Incompleto"
+  },
+  "104": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Olennainen",
+    "pt": "Essencial"
+  },
+  "105": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Varsinainen",
+    "pt": "Real, próprio"
+  },
+  "106": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Muinainen",
+    "pt": "Arcaico"
+  },
+  "106": {
+    "class": {
+      "name": "idiom"
+    },
+    "weight": 1,
+    "fi": "Kauhistuksen kanahäkki",
+    "pt": "Morto de medo"
+  },
+  "107": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Poikamies",
+    "pt": "Solteiro"
+  },
+  "108": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Nestehukka",
+    "pt": "Desidratação"
+  },
+  "109": {
+    "class": {
+      "name": "noun"
+    },
+    "weight": 1,
+    "fi": "Sudenkorento",
+    "pt": "Libélula"
+  },
+  "110": {
+    "class": {
+      "name": "adverb"
+    },
+    "weight": 1,
+    "fi": "Mustasukkainen",
+    "pt": "Com ciúmes"
   }
 }
