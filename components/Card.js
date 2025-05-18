@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import styles from '../styles/Home.module.css'
 
 export default function Card({words, onFinnish}) {
@@ -17,7 +17,7 @@ export default function Card({words, onFinnish}) {
   return (
     <>
       <div className={styles.grid}>
-        <div className={styles.card + ' ' + (flipClass ? styles.flip : '')} onClick={() => setFlipClass(!flipClass)}>
+        <div className={styles.card + ' ' + (flipClass ? styles.flip : '')} onClick={() => setFlipClass(!flipClass)} style={{backgroundColor: `hsl(${(1 - word.weight) * 90}deg 80% 92%)`}}>
           <div className={styles.front}>
             <p>🇫🇮</p>
             <p>{ word.fi }</p>
