@@ -495,6 +495,62 @@
       "weight": 0.5,
       "fi": "Edeltävä",
       "pt": "Anterior, precedente"
+    },
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.5,
+      "fi": "Hätähousu",
+      "pt": "Apressado"
+    },
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.75,
+      "fi": "Puolivillainen",
+      "pt": "Meia-boca, nas coxas"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.75,
+      "fi": "Älämölö",
+      "pt": "Perturbação, confusão"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Kalabaliikki",
+      "pt": "Desorderm, confusão"
+    },
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Ristiriitainen",
+      "pt": "Contraditório, conflituoso"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Saivartelija",
+      "pt": "Pedante"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Neronleimaus",
+      "pt": "Lampejo de genialidade"
     }
   ]
 }
