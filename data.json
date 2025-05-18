@@ -1,474 +1,476 @@
 {
-  "0": {
-    "class": {
-      "name": "verb"
+  "words": [
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Lytätä",
+      "pt": "Achatar"
     },
-    "weight": 0.25,
-    "fi": "Lytätä",
-    "pt": "Achatar"
-  },
-  "1": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.25,
+      "fi": "Ennenaikainen",
+      "pt": "Preliminar, prematuro"
     },
-    "weight": 0.25,
-    "fi": "Ennenaikainen",
-    "pt": "Preliminar, prematuro"
-  },
-  "2": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Paljastaa",
+      "pt": "Revelar, expor"
     },
-    "weight": 0.25,
-    "fi": "Paljastaa",
-    "pt": "Revelar, expor"
-  },
-  "3": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Paljastua",
+      "pt": "Ser revelado, ser exposto, emergir"
     },
-    "weight": 0.25,
-    "fi": "Paljastua",
-    "pt": "Ser revelado, ser exposto, emergir"
-  },
-  "4": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Juontua",
+      "pt": "Derivar"
     },
-    "weight": 0.25,
-    "fi": "Juontua",
-    "pt": "Derivar"
-  },
-  "5": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Luokka",
+      "pt": "Categoria, classe, gênero, tipo..."
     },
-    "weight": 0.25,
-    "fi": "Luokka",
-    "pt": "Categoria, classe, gênero, tipo..."
-  },
-  "6": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Julkistaa",
+      "pt": "Publicar, lançar, anunciar, divulgar..."
     },
-    "weight": 0.25,
-    "fi": "Julkistaa",
-    "pt": "Publicar, lançar, anunciar, divulgar..."
-  },
-  "7": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Tuotanto",
+      "pt": "Produção, geração"
     },
-    "weight": 0.25,
-    "fi": "Tuotanto",
-    "pt": "Produção, geração"
-  },
-  "8": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Vaatia",
+      "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
     },
-    "weight": 0.25,
-    "fi": "Vaatia",
-    "pt": "Demandar, reclamar, insistir, reinvindicar, exigir, requerer..."
-  },
-  "9": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.25,
+      "fi": "Vakava",
+      "pt": "Sério, grave, severo"
     },
-    "weight": 0.25,
-    "fi": "Vakava",
-    "pt": "Sério, grave, severo"
-  },
-  "10": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.5,
+      "fi": "Huolestuttaa",
+      "pt": "Preocupar, alarmar, inquietar"
     },
-    "weight": 0.5,
-    "fi": "Huolestuttaa",
-    "pt": "Preocupar, alarmar, inquietar"
-  },
-  "11": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Tuottaa",
+      "pt": "Causar, criar, produzir"
     },
-    "weight": 0.25,
-    "fi": "Tuottaa",
-    "pt": "Causar, criar, produzir"
-  },
-  "12": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Saapua",
+      "pt": "Chegar, alcançar, atingir, vencer"
     },
-    "weight": 0.25,
-    "fi": "Saapua",
-    "pt": "Chegar, alcançar, atingir, vencer"
-  },
-  "13": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.25,
+      "fi": "Toimelias",
+      "pt": "Ativo, energético"
     },
-    "weight": 0.25,
-    "fi": "Toimelias",
-    "pt": "Ativo, energético"
-  },
-  "14": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Sijoittaa",
+      "pt": "Plantar, posicionar, apostar, investir"
     },
-    "weight": 0.25,
-    "fi": "Sijoittaa",
-    "pt": "Plantar, posicionar, apostar, investir"
-  },
-  "15": {
-    "class": {
-      "name": ""
+    {
+      "class": {
+        "name": ""
+      },
+      "weight": 0.5,
+      "fi": "Edes",
+      "pt": "Mesmo, até, apenas, somente"
     },
-    "weight": 0.5,
-    "fi": "Edes",
-    "pt": "Mesmo, até, apenas, somente"
-  },
-  "16": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.5,
+      "fi": "Kiihtyä",
+      "pt": "Acelerar, ficar excitado, escalonar"
     },
-    "weight": 0.5,
-    "fi": "Kiihtyä",
-    "pt": "Acelerar, ficar excitado, escalonar"
-  },
-  "17": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Teollisuus",
+      "pt": "Indústria."
     },
-    "weight": 0.25,
-    "fi": "Teollisuus",
-    "pt": "Indústria."
-  },
-  "18": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Ehdottomasti",
+      "pt": "Absolutamente, definitivamente"
     },
-    "weight": 1,
-    "fi": "Ehdottomasti",
-    "pt": "Absolutamente, definitivamente"
-  },
-  "19": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Alusta",
+      "pt": "Plataforma, base, chassi"
     },
-    "weight": 0.25,
-    "fi": "Alusta",
-    "pt": "Plataforma, base, chassi"
-  },
-  "20": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.5,
+      "fi": "Jättää",
+      "pt": "Descarregar, despensar, sair, abandonar"
     },
-    "weight": 0.5,
-    "fi": "Jättää",
-    "pt": "Descarregar, despensar, sair, abandonar"
-  },
-  "21": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 0.5,
+      "fi": "Tavattoman",
+      "pt": "Extremamente, excessivamente"
     },
-    "weight": 0.5,
-    "fi": "Tavattoman",
-    "pt": "Extremamente, excessivamente"
-  },
-  "22": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Hajottaa",
+      "pt": "Quebrar, partir, desmontar, demolir, espalhar"
     },
-    "weight": 1,
-    "fi": "Hajottaa",
-    "pt": "Quebrar, partir, desmontar, demolir, espalhar"
-  },
-  "23": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Kerätä",
+      "pt": "Coletar, aglutinar, acumular, arrecadar, colecionar"
     },
-    "weight": 0.25,
-    "fi": "Kerätä",
-    "pt": "Coletar, aglutinar, acumular, arrecadar, colecionar"
-  },
-  "24": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Ennustaa",
+      "pt": "Prever, adivinhar, predizer"
     },
-    "weight": 0.25,
-    "fi": "Ennustaa",
-    "pt": "Prever, adivinhar, predizer"
-  },
-  "25": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Torjunta",
+      "pt": "Prevenção, bloqueio"
     },
-    "weight": 1,
-    "fi": "Torjunta",
-    "pt": "Prevenção, bloqueio"
-  },
-  "26": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Asenne",
+      "pt": "Posição, postura, atitude"
     },
-    "weight": 0.25,
-    "fi": "Asenne",
-    "pt": "Posição, postura, atitude"
-  },
-  "27": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.5,
+      "fi": "Vaikuttaa",
+      "pt": "Impactar, afetar, influenciar"
     },
-    "weight": 0.5,
-    "fi": "Vaikuttaa",
-    "pt": "Impactar, afetar, influenciar"
-  },
-  "28": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.5,
+      "fi": "Päästö",
+      "pt": "Emissão"
     },
-    "weight": 0.5,
-    "fi": "Päästö",
-    "pt": "Emissão"
-  },
-  "29": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.25,
+      "fi": "Tavoite",
+      "pt": "Meta, objetivo, prioridade"
     },
-    "weight": 0.25,
-    "fi": "Tavoite",
-    "pt": "Meta, objetivo, prioridade"
-  },
-  "30": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Estää",
+      "pt": "Bloquear, barrar, proibir, evitar, frustrar"
     },
-    "weight": 1,
-    "fi": "Estää",
-    "pt": "Bloquear, barrar, proibir, evitar, frustrar"
-  },
-  "31": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Hyötyä",
+      "pt": "Beneficiar, lucrar"
     },
-    "weight": 1,
-    "fi": "Hyötyä",
-    "pt": "Beneficiar, lucrar"
-  },
-  "32": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Menettä",
+      "pt": "Perder"
     },
-    "weight": 1,
-    "fi": "Menettä",
-    "pt": "Perder"
-  },
-  "33": {
-    "class": {
-      "name": ""
+    {
+      "class": {
+        "name": ""
+      },
+      "weight": 1,
+      "fi": "Kohti",
+      "pt": "Rumo a, até, para"
     },
-    "weight": 1,
-    "fi": "Kohti",
-    "pt": "Rumo a, até, para"
-  },
-  "34": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Havaita",
+      "pt": "Compreender, perceber, detectar"
     },
-    "weight": 1,
-    "fi": "Havaita",
-    "pt": "Compreender, perceber, detectar"
-  },
-  "35": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Ilmiö",
+      "pt": "Fenômeno, efeito, aparência"
     },
-    "weight": 1,
-    "fi": "Ilmiö",
-    "pt": "Fenômeno, efeito, aparência"
-  },
-  "36": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Purkaa",
+      "pt": "Destruir, desfazer, desmontar, decifrar"
     },
-    "weight": 1,
-    "fi": "Purkaa",
-    "pt": "Destruir, desfazer, desmontar, decifrar"
-  },
-  "37": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Kehottaa",
+      "pt": "Insistir, encorajar"
     },
-    "weight": 1,
-    "fi": "Kehottaa",
-    "pt": "Insistir, encorajar"
-  },
-  "38": {
-    "class": {
-      "name": "adjective"
+    {
+      "class": {
+        "name": "adjective"
+      },
+      "weight": 1,
+      "fi": "Ärhäkkä",
+      "pt": "Agressivo, irascível"
     },
-    "weight": 1,
-    "fi": "Ärhäkkä",
-    "pt": "Agressivo, irascível"
-  },
-  "39": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Kohdistaa",
+      "pt": "Direcionar, orientar, focar"
     },
-    "weight": 1,
-    "fi": "Kohdistaa",
-    "pt": "Direcionar, orientar, focar"
-  },
-  "40": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Tajuta",
+      "pt": "Dar-se conta, compreender"
     },
-    "weight": 1,
-    "fi": "Tajuta",
-    "pt": "Dar-se conta, compreender"
-  },
-  "41": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Paisunut",
+      "pt": "Inflado, inchado"
     },
-    "weight": 1,
-    "fi": "Paisunut",
-    "pt": "Inflado, inchado"
-  },
-  "42": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Ennätys",
+      "pt": "Recorde"
     },
-    "weight": 1,
-    "fi": "Ennätys",
-    "pt": "Recorde"
-  },
-  "43": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Kohentaa",
+      "pt": "Melhorar, consertar, aperfeiçoar"
     },
-    "weight": 1,
-    "fi": "Kohentaa",
-    "pt": "Melhorar, consertar, aperfeiçoar"
-  },
-  "44": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Ryhtyä",
+      "pt": "Empreender, conduzir, travar"
     },
-    "weight": 1,
-    "fi": "Ryhtyä",
-    "pt": "Empreender, conduzir, travar"
-  },
-  "45": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Selvittää",
+      "pt": "Deduzir, resolver, descobrir, esclarecer, decifrar..."
     },
-    "weight": 1,
-    "fi": "Selvittää",
-    "pt": "Deduzir, resolver, descobrir, esclarecer, decifrar..."
-  },
-  "46": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Jakelu",
+      "pt": "Distribuição"
     },
-    "weight": 1,
-    "fi": "Jakelu",
-    "pt": "Distribuição"
-  },
-  "47": {
-    "class": {
-      "name": "adverb"
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Liittyvä",
+      "pt": "Contíguo, relacionado"
     },
-    "weight": 1,
-    "fi": "Liittyvä",
-    "pt": "Contíguo, relacionado"
-  },
-  "48": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Kiristää",
+      "pt": "Apertar, chantagear"
     },
-    "weight": 1,
-    "fi": "Kiristää",
-    "pt": "Apertar, chantagear"
-  },
-  "49": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Syyttää",
+      "pt": "Acusar, incriminar, culpar, processar"
     },
-    "weight": 1,
-    "fi": "Syyttää",
-    "pt": "Acusar, incriminar, culpar, processar"
-  },
-  "50": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Luoda",
+      "pt": "Criar, fazer, compor, mudar, engendrar"
     },
-    "weight": 1,
-    "fi": "Luoda",
-    "pt": "Criar, fazer, compor, mudar, engendrar"
-  },
-  "51": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Äskettäin",
+      "pt": "Recentemente, ultimamente, recém"
     },
-    "weight": 1,
-    "fi": "Äskettäin",
-    "pt": "Recentemente, ultimamente, recém"
-  },
-  "52": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Sekä",
+      "pt": "Assim como"
     },
-    "weight": 1,
-    "fi": "Sekä",
-    "pt": "Assim como"
-  },
-  "53": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Eräs",
+      "pt": "Algum, certo"
     },
-    "weight": 1,
-    "fi": "Eräs",
-    "pt": "Algum, certo"
-  },
-  "54": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Pärjätä",
+      "pt": "Aguentar, conformar-se"
     },
-    "weight": 1,
-    "fi": "Pärjätä",
-    "pt": "Aguentar, conformar-se"
-  },
-  "55": {
-    "class": {
-      "name": "verb"
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Junailla",
+      "pt": "inventar, delinear, projetar, idear, tramar"
     },
-    "weight": 1,
-    "fi": "Junailla",
-    "pt": "inventar, delinear, projetar, idear, tramar"
-  },
-  "56": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Lohikäärme",
+      "pt": "Dragão"
     },
-    "weight": 0.25,
-    "fi": "Lohikäärme",
-    "pt": "Dragão"
-  },
-  "57": {
-    "class": {
-      "name": "noun"
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Hiljaisuus",
+      "pt": "Silêncio"
     },
-    "weight": 0.25,
-    "fi": "Hiljaisuus",
-    "pt": "Silêncio"
-  },
-  "58": {
-    "class": {
-      "name": "noun"
-    },
-    "weight": 0.25,
-    "fi": "Mittapuu",
-    "pt": "Norma, padrão"
-  }
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.25,
+      "fi": "Mittapuu",
+      "pt": "Norma, padrão"
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import data from '../data.json'
@@ -7,8 +7,7 @@ import Card from '../components/Card'
 
 export default function Home() {
   const [words, setData] = useState(null)
-
-  useEffect(() => setData(shuffle(filter(data))), [])
+  useEffect(() => setData(shuffle(filter(data.words))), [])
 
   return (
     <div className={styles.container}>
@@ -23,7 +22,7 @@ export default function Home() {
           <h1 className={styles.title}>Finnish vocabulary cards</h1>
         </div>
 
-        {words && <Card words={words} onFinnish={() => setData(shuffle(filter(data)))} />}
+        {words && <Card words={words} onFinnish={() => setData(shuffle(filter(data.words)))} />}
       </main>
 
       <footer className={styles.footer}>
