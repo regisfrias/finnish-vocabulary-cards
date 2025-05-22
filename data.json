@@ -551,6 +551,22 @@
       "weight": 1,
       "fi": "Neronleimaus",
       "pt": "Lampejo de genialidade"
+    },
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Vikkaasti",
+      "pt": "Ativamente"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Kohde",
+      "pt": "Sujeito, objetivo, alvo, foco"
     }
   ]
 }
