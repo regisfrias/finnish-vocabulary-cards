@@ -462,7 +462,7 @@
       },
       "weight": 1,
       "fi": "Louhia",
-      "pt": "Mierar, explorar, minar"
+      "pt": "Minerar, explorar, minar"
     },
     {
       "class": {
@@ -631,6 +631,14 @@
       "weight": 1,
       "fi": "Merkitys",
       "pt": "Sentido, implicação, relevância"
-    }
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Luovuttaa",
+      "pt": "Abandonar, ceder, conceser, desistir"
+    },
   ]
 }
