@@ -639,6 +639,86 @@
       "weight": 1,
       "fi": "Luovuttaa",
       "pt": "Abandonar, ceder, conceser, desistir"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Duunari",
+      "pt": "Trabalhador manual"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Tienata",
+      "pt": "Ganhar (dinheiro)"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Valvonta",
+      "pt": "Vigilância, supervisão, controls"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Periaate",
+      "pt": "Princípio, filosofia"
+    },
+    {
+      "class": noun
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Väittely",
+      "pt": "Discussão, argumentação, debate"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Rykelmä",
+      "pt": "Agrupamento, aglomeração, conjunto"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Kitka",
+      "pt": "Fricção"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Aiheuttaa",
+      "pt": "Causar, provocar, engendrar"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Tummua",
+      "pt": "Escurescer"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Värvätä",
+      "pt": "Recrutar"
     }
   ]
 }
