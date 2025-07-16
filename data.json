@@ -719,6 +719,22 @@
       "weight": 1,
       "fi": "Värvätä",
       "pt": "Recrutar"
+    },
+    {
+      "class": {
+        "name": "adverb"
+      },
+      "weight": 1,
+      "fi": "Yhä",
+      "pt": "Ainda, cada vez mais"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 1,
+      "fi": "Hanke",
+      "pt": "Projeto, empreensimento"
     }
   ]
 }
