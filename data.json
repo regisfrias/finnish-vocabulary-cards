@@ -673,7 +673,7 @@
       "pt": "Princípio, filosofia"
     },
     {
-      "class": 
+      "class": {
         "name": "noun"
       },
       "weight": 1,
