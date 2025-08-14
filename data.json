@@ -36,7 +36,7 @@
       "class": {
         "name": "verb"
       },
-      "weight": 0.4,
+      "weight": 0.75,
       "fi": "Juontua",
       "pt": "Derivar"
     },
@@ -300,7 +300,7 @@
       "class": {
         "name": "verb"
       },
-      "weight": 0.5,
+      "weight": 0.75,
       "fi": "Kehottaa",
       "pt": "Insistir, encorajar"
     },
@@ -476,7 +476,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.5,
       "fi": "Kulkku",
       "pt": "Passagem, trajetória, curso"
     },
@@ -508,7 +508,7 @@
       "class": {
         "name": "adverb"
       },
-      "weight": 0.75,
+      "weight": 0.5,
       "fi": "Puolivillainen",
       "pt": "Meia-boca, nas coxas"
     },
@@ -532,7 +532,7 @@
       "class": {
         "name": "adverb"
       },
-      "weight": 1,
+      "weight": 0.5,
       "fi": "Ristiriitainen",
       "pt": "Contraditório, conflituoso"
     },
@@ -540,7 +540,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.5,
       "fi": "Saivartelija",
       "pt": "Pedante"
     },
@@ -548,7 +548,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.25,
       "fi": "Neronleimaus",
       "pt": "Lampejo de genialidade"
     },
@@ -580,7 +580,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.25,
       "fi": "Hyönteinen",
       "pt": "Inseto"
     },
@@ -588,7 +588,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.15,
       "fi": "Kaatopaikka",
       "pt": "Aterro"
     },
@@ -644,7 +644,7 @@
       "class": {
         "name": "noun"
       },
-      "weight": 1,
+      "weight": 0.25,
       "fi": "Duunari",
       "pt": "Trabalhador manual"
     },
@@ -708,7 +708,7 @@
       "class": {
         "name": "verb"
       },
-      "weight": 1,
+      "weight": 0.25,
       "fi": "Tummua",
       "pt": "Escurescer"
     },
