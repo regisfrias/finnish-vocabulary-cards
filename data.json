@@ -759,6 +759,38 @@
       "weight": 1,
       "fi": "Mullistaa",
       "pt": "Subverter, revolucionar"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.15,
+      "fi": "Keidas",
+      "pt": "Oásis"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Väitellä",
+      "pt": "Discutir, debater, argumentar"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Piristää",
+      "pt": "Consolar, reconfortar, refrescar"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 0.5,
+      "fi": "Ainutlaatuinen",
+      "pt": "Único, singular"
     }
   ]
 }
