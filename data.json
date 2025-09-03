@@ -791,6 +791,30 @@
       "weight": 0.5,
       "fi": "Ainutlaatuinen",
       "pt": "Único, singular"
+    },
+    {
+      "class": {
+        "name": "noun"
+      },
+      "weight": 0.75,
+      "fi": "Höttö",
+      "pt": "Ninharia"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Sitoutua",
+      "pt": "Prometer, empenhar"
+    },
+    {
+      "class": {
+        "name": "verb"
+      },
+      "weight": 1,
+      "fi": "Suoriutua",
+      "pt": "Manejar, superar"
     }
   ]
 }
